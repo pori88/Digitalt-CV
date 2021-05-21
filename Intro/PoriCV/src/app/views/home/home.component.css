@@ -1,0 +1,36 @@
+.fond {
+    font-family: Garamond, serif;
+    font-weight: 500;
+    
+}
+
+.start-bild {
+  font-weight: 700;
+  font-size: 2.5rem;
+  position: absolute;
+  margin-top: -69rem;
+  margin-left: 25rem;
+}
+
+.bg-image {
+    border-radius: 250px !important;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px !important;
+}
+
+.ptag {
+  font-size: 1.35rem;
+  z-index: 1;
+  position: absolute;
+  margin-top: -35rem;
+  margin-left: 5rem;
+  font-weight: 600;
+
+}
+
+.om {
+  font-weight: 700;
+  font-size: 2.5rem;
+  position: absolute;
+  margin-top: -20rem;
+  margin-left: 10rem;
+}

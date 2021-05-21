@@ -1,0 +1,81 @@
+.fond {
+    font-family: Garamond, serif;
+}
+.fondd {
+    font-family: Garamond, serif;
+    font-size: 17px;
+    font-weight: 550;
+}
+
+.cvbild {
+    border-radius: 10rem;
+    width: 13%;
+}
+
+.profilen {
+    display: inline-block;
+    margin-top: 5rem;
+    font-weight: 550;
+    font-size: 17px;
+    color: rgb(88, 88, 88);
+    font-family: Garamond, serif;
+
+}
+
+
+
+.grey {
+    color: rgb(155, 155, 155);
+    font-size: 15px;
+    font-weight: 100;
+}
+
+p {
+    max-width: 40%;
+}
+
+h3 {
+    max-width: 70%;
+}
+
+.bg-blue {
+    /* background-color: #4267B2;
+    padding: 125rem 0rem 0rem 0rem;
+    margin: 0rem 0rem 0rem 43rem;
+    margin-bottom: -140rem;
+    position: relative;
+    color: #ffff;
+    z-index: -1; */
+    display: flex;
+    align-content: end;
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 560px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #4267b2; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+}
+
+
+.text {
+    display: inline-block;
+    margin: auto;
+    margin-left: 10rem;
+    color: #ffff;
+    font-size: 1.5rem;
+    
+}
+
+.blue-text {
+    text-decoration: underline;
+    background-color: #4267B2;
+    position: relative;
+    color: rgb(170, 170, 170);
+}
+
+.text-grey {
+    color: rgb(170, 170, 170);
+}
